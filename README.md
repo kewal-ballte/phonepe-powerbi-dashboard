@@ -1,3 +1,7 @@
+Phonpe
+![Phonepe](https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/phonepe.png)
+
+
 # phonepe-powerbi-dashboard
 Power BI dashboard analyzing Loan, Insurance, Recharge, and Money Transfer datasets.
 
