@@ -62,16 +62,16 @@ My Project
 * Transaction Volume Insights
  
 ## LOANS
-![LOANS](https://https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/loans.png)
+![LOANS](https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/loans.png)
 
 ## Insurance
-![Insurance](https://https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/Insurance.png)
+![Insurance](https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/Insurance.png)
 
 ## Recharge
 ![Recharge](https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/Recharge.png)
 
 ## Over All Transcation
-![Transcation](https://https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/All%20Transaction.png)
+![Transcation](https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/All%20Transaction.png)
 
 
 
