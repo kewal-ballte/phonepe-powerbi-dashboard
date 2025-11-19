@@ -51,7 +51,7 @@ My Project
 
 * Usage Insights by Reason
 
-🔶 4. Money Transfer Dashboard
+🔶 4. Over All Transction Dashboard
 
 * Transfer Amount Analytics
 
@@ -61,3 +61,18 @@ My Project
 
 * Transaction Volume Insights
  
+## LOANS
+![LOANS](https://https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/loans.png)
+
+## Insurance
+![Insurance](https://https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/Insurance.png)
+
+## Recharge
+![Recharge](https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/Recharge.png)
+
+## Over All Transcation
+![Transcation](https://https://github.com/kewal-ballte/phonepe-powerbi-dashboard/blob/main/All%20Transaction.png)
+
+
+
+
